@@ -7,8 +7,8 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1jPNwBy6wrcb_E4TjcsajtODHEvEfiorm&authuser=0" alt="bootstrap" width="55" height="50"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1DkubAjxGWjUYRI622DvM6TVDbIH2bsTH&authuser=0" alt="bootstrap" width="55" height="50"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1_BDsGOJMkSML36kNckJkZxv6FdJEANiT&authuser=0" alt="bootstrap" width="55" height="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1gZxL3McNwzohokuseZmMfegLdJHY9XaX&authuser=0" alt="bootstrap" width="55" height="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1RzvGZdZnIqROptqrgEad0nYissjcoOMh&authuser=0" alt="bootstrap" width="55" height="55"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1gZxL3McNwzohokuseZmMfegLdJHY9XaX&authuser=0" alt="bootstrap" width="55" height="52"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1RzvGZdZnIqROptqrgEad0nYissjcoOMh&authuser=0" alt="bootstrap" width="55" height="50"/> </a>
 
 
 
