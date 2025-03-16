@@ -1,4 +1,4 @@
-## imget
+## imget 輝
 
 My name is Adisorn Sriphongthong
 I am computer science  
