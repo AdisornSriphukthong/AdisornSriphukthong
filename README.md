@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1kisFQifj1-cn6SovAMKOYyZ-HJdxWqxe&authuser=0" alt="bootstrap" width="35" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1kisFQifj1-cn6SovAMKOYyZ-HJdxWqxe&authuser=0" alt="bootstrap" width="50" height="50"/> </a>
