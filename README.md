@@ -1,7 +1,9 @@
 ## imget
 
 My name is Adisorn Sriphongthong
-I am computer science  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fd/30/84/fd30846b19ff684f079d23b217a481e8.gif" alt="bootstrap" width="55" height="53"/> </a>
+I am computer science  
+
+<a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fd/30/84/fd30846b19ff684f079d23b217a481e8.gif" alt="bootstrap" width="55" height="53"/> </a>
 
 ## ᴇxᴘᴇʀɪᴇɴᴄᴇ sᴋɪʟʟs
 <a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1ayU40L9D2U9Fj17bybZPfCyNS8JoVoA4&authuser=0" alt="bootstrap" width="55" height="53"/> </a>
