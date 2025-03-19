@@ -1,7 +1,7 @@
 ## imget 𝓐𝓭𝓲𝓼𝓸𝓻𝓷
 
 My name is Adisorn Sriphongthong
-I am computer science  
+I am a computer science.
 
 ## ᴇxᴘᴇʀɪᴇɴᴄᴇ sᴋɪʟʟs
 <a href="" target="_blank" rel="noreferrer"> <img src="https://drive.usercontent.google.com/download?id=1ayU40L9D2U9Fj17bybZPfCyNS8JoVoA4&authuser=0" alt="bootstrap" width="55" height="53"/> </a>
