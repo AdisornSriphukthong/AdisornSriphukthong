@@ -6,9 +6,7 @@ I am a computer science.
 ## ᴇxᴘᴇʀɪᴇɴᴄᴇ sᴋɪʟʟs
 
 ### ☁️ Cloud & DevOps
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,github,git)
-### Tech Stack
-![Languages](https://skillicons.dev/icons?i=ts,js,firebase,supabase,py,java,nextjs,tailwind,materialui,nodejs,nestjs,prisma,postgres,mysql,mongodb,redis)
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,github,git,ts,js,firebase,supabase,py,java,nextjs,tailwind,materialui,nodejs,nestjs,prisma,postgres,mysql,mongodb,redis)
 
 <a href="https://x.com/Yamato_kp" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
 
