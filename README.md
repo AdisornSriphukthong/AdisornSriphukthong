@@ -1,4 +1,4 @@
-## Im get Adisorn
+## Imgett Adisorn
 
 My name is Adisorn Sriphongthong
 I am a computer science.
