@@ -8,16 +8,7 @@ I am a computer science.
 ## 🚀 Tech Stack
 
 ### 🧠 Languages
-![Languages](https://skillicons.dev/icons?i=ts,js,py,java,cs)
-
-### 🌐 Frontend
-![Frontend](https://skillicons.dev/icons?i=nextjs,tailwind,materialui)
-
-### 🛠 Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,prisma)
-
-### 🗄 Database
-![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase)
+![Languages](https://skillicons.dev/icons?i=ts,js,py,java,cs,nextjs,tailwind,materialui,nodejs,nestjs,prisma,postgres,mysql,mongodb,redis,firebase,supabase)
 
 ### ☁️ Cloud & DevOps
 ![Cloud](https://skillicons.dev/icons?i=aws,gcp,github,git)
