@@ -26,7 +26,6 @@ I am a software developer with experience in developing web applications using R
 
 ![Claude](https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=for-the-badge&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-black?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Connect with me
 
