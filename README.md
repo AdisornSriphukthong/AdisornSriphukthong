@@ -1,5 +1,4 @@
-# Hi, I'm Thura Lin Htut
-
+# Hi, Imgett
 I am a software developer with experience in developing web applications using React and Django. I mainly use JavaScript for React and Python for Django. Additionally, I have experience in developing mobile applications. Currently, I am learning UI/UX design and some popular JavaScript libraries to expand my skillset.
 
 ## Programming Language & Tools
