@@ -2,7 +2,7 @@
 
 I am a software developer with experience in developing web applications using React and Django. I mainly use JavaScript for React and Python for Django. Additionally, I have experience in developing mobile applications. Currently, I am learning UI/UX design and some popular JavaScript libraries to expand my skillset.
 
-## 💻 Programming Language & Tools
+## Programming Language & Tools
 
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +25,7 @@ I am a software developer with experience in developing web applications using R
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📫 Connect with me
+## Connect with me
 
 [![Email](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com)
 [![X](https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=black)](https://x.com/your-handle)
