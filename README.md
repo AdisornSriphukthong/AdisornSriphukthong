@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">A Software Developer building things that (mostly) work</h3>
+You can do anything as long as this world still has internet.
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&colorB=555" /></a>
