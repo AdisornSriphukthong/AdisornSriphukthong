@@ -29,10 +29,17 @@ I am a software developer with experience in developing web applications using R
 
 ## 🚀 Top Projects (built to avoid manual labor)
  
+<table>
+<tr>
+<td width="70%" valign="top">
 - **[PROJECT NAME ONE](https://github.com/empiretylh/project-one)** — Secure user login and backend validation, because some code needs to self-destruct gracefully.
 - **[PROJECT NAME TWO](https://github.com/empiretylh/project-two)** — A collection of scripts that run purely on faith, caffeine, and a lot of print statements.
-- **[PROJECT NAME THREE](https://github.com/empiretylh/project-three)** — Automates the boring stuff so you don't have to pretend to enjoy it.
-
+</td>
+<td width="30%" valign="middle" align="center">
+<img src="https://via.placeholder.com/220x160.png?text=Project+Image" />
+</td>
+</tr>
+</table>
 ## Connect with me
 
 [![Email](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=black)](adisornsriphukthong@gmail.com)
