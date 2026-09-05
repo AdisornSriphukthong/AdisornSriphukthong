@@ -1,5 +1,5 @@
 # Hi, Imgett
-I am a software developer with experience in developing web applications using React and Django. I mainly use JavaScript for React and Python for Django. Additionally, I have experience in developing mobile applications. Currently, I am learning UI/UX design and some popular JavaScript libraries to expand my skillset.
+I am a Full Stack Developer with a "give me the internet, I'll build it" mindset. I design end-to-end flows and build across the stack — front-end, back-end, and databases (SQL & NoSQL alike). My background spans Software Engineering and AI Development, so I'm equally comfortable architecting a system as I am integrating intelligent features into it.
 
 ## Programming Language & Tools
 
