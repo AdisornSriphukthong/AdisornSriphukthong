@@ -33,6 +33,5 @@ I am a software developer with experience in developing web applications using R
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-site.com)
+[![Email](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com)
+[![X](https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=black)](https://x.com/your-handle)
