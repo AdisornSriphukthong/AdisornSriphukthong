@@ -24,6 +24,9 @@ I am a software developer with experience in developing web applications using R
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
+![Claude](https://img.shields.io/badge/-Claude-black?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=for-the-badge&logo=openai&logoColor=white)
+
 ## Connect with me
 
 [![Email](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=black)](adisornsriphukthong@gmail.com)
