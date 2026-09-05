@@ -26,6 +26,7 @@ I am a Full Stack Developer with a "give me the internet, I'll build it" mindset
 
 ![Claude](https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 <!--
 <table>
 <tr>
