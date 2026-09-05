@@ -25,12 +25,6 @@ I am a software developer with experience in developing web applications using R
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats:
-
-![Thura Lin Htut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=empiretylh&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=empiretylh&layout=compact&theme=dark&hide_border=true)
-
 ## 📫 Connect with me
 
 [![Email](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com)
