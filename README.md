@@ -36,7 +36,7 @@ I am a software developer with experience in developing web applications using R
 - **[PROJECT NAME TWO](https://github.com/empiretylh/project-two)** — A collection of scripts that run purely on faith, caffeine, and a lot of print statements.
 </td>
 <td width="30%" valign="middle" align="center">
-<img src="https://via.placeholder.com/220x160.png?text=Project+Image" />
+<img src="https://i.pinimg.com/736x/b9/88/1d/b9881d73712f3e4aa410348dcabcb8b3.jpg" />
 </td>
 </tr>
 </table>
