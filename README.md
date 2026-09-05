@@ -28,15 +28,14 @@ I am a software developer with experience in developing web applications using R
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 🚀 Top Projects (built to avoid manual labor)
- 
-<table>
+ <table>
 <tr>
 <td width="70%" valign="top">
 - **[PROJECT NAME ONE](https://github.com/empiretylh/project-one)** — Secure user login and backend validation, because some code needs to self-destruct gracefully.
 - **[PROJECT NAME TWO](https://github.com/empiretylh/project-two)** — A collection of scripts that run purely on faith, caffeine, and a lot of print statements.
 </td>
 <td width="30%" valign="middle" align="center">
-<img src="https://i.pinimg.com/736x/b9/88/1d/b9881d73712f3e4aa410348dcabcb8b3.jpg" />
+<img src="https://i.pinimg.com/736x/b9/88/1d/b9881d73712f3e4aa410348dcabcb8b3.jpg" width="120" />
 </td>
 </tr>
 </table>
