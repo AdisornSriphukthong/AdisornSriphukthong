@@ -26,9 +26,8 @@ I am a software developer with experience in developing web applications using R
 
 ![Claude](https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=for-the-badge&logo=openai&logoColor=white)
-
-## 🚀 Top Projects (built to avoid manual labor)
- <table>
+<!--
+<table>
 <tr>
 <td width="70%" valign="top">
 - **[PROJECT NAME ONE](https://github.com/empiretylh/project-one)** — Secure user login and backend validation, because some code needs to self-destruct gracefully.
@@ -39,6 +38,8 @@ I am a software developer with experience in developing web applications using R
 </td>
 </tr>
 </table>
+-->
+
 ## Connect with me
 
 [![Email](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=black)](adisornsriphukthong@gmail.com)
