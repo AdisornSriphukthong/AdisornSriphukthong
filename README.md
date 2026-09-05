@@ -26,5 +26,5 @@ I am a software developer with experience in developing web applications using R
 
 ## Connect with me
 
-[![Email](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=black)](adisornsriphukthong@gmail.com)
 [![X](https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=black)](https://x.com/imgett_)
